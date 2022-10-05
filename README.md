@@ -13,8 +13,8 @@
 3. Menambahkan Inline
 ![3.png](img/prosescss3.png)
 
-4. Menambahkan file Style eksternal
-![5.png](img/prosescss44.png)
+4. Menambahkan file Style eksternal<br />
+![4.png](img/prosescss44.png)
 
 5. Isi scrip dari file style eksternal
 ![5.png](img/prosescss5.png)
