@@ -5,31 +5,31 @@
 *Proses HTML dan CSS Praktikum Web2*
 
 1. Membuat Dokumen HTML
-![1.png](prosescss1.png)
+![1.png](img/prosescss1.png)
 
 2. Mendeklarasikan CSS Internal
-![2.png](prosescss2.png)
+![2.png](img/prosescss2.png)
 
 3. Menambahkan Inline
-![3.png](prosescss3.png)
+![3.png](img/prosescss3.png)
 
 4. Menambahkan file Style eksternal
-![5.png](prosescss44.png)
+![5.png](img/prosescss44.png)
 
 5. Isi scrip dari file style eksternal
-![5.png](prosescss5.png)
+![5.png](img/prosescss5.png)
 
 6. Menambahkan CSS Selector
-![6.png](prosescss6.png) 
+![6.png](img/prosescss6.png) 
 
 *Pertanyaan dan tugas*
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 Hasil :
-![6.png](prosescss6.png)
+![6.png](img/prosescss6.png)
 ``` 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
-Jawab: 
+Jawab: pwdp
 perbedaan jika dengan tag elemen h1 maka tag yang ber elemen h1 akan ikut berubah semua. namun jika menggunkan selector maka yang akan berubah hanya elemen yang di beri selector saja yang akan berubah.
 ```
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
